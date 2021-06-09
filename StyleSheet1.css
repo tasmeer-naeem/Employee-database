@@ -1,0 +1,21 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+#dv1{
+    background-color:maroon;
+    width:100%;
+    height:650px;
+}
+#dv2{
+    text-align:center;
+    padding:4em;
+}
+#login{
+    width:250px;
+    height:50px;
+}
+#Label1 {
+    width: 250px;
+    height: 50px;
+}
